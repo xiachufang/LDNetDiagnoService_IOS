@@ -15,6 +15,7 @@
 #endif
 
 #include <AssertMacros.h>
+#include <sys/_types/_sa_family_t.h>
 
 NS_ASSUME_NONNULL_BEGIN
 // The SimplePing class is a very simple class that lets you send and receive pings.
